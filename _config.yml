@@ -31,7 +31,7 @@ locale: "en-US"
 plugins:
   - jekyll-feed
   - jekyll-katex
-
+  - jekyll-include-cache
 kramdown:
   math_engine: katex
 
