@@ -14,18 +14,18 @@ The [Meelgroup](https://meelgroup.github.io/) research team has developed and cu
 
 | Name              | Input             | Type                  | Project Webpage                                       | Note      |
 |:---:                |:---:                | :---:                   |:---:                                                    |:---:        | 
+| `ExactMC` | CNF | Exact Counter       | [Source](https://github.com/meelgroup/KCBox)      | Supports weighted model counting          |
 | `GANAK`           | CNF               | Exact Counter         | [Source](https://github.com/meelgroup/ganak/)         | Supports projected model counting |
 | `ApproxMC`        | CNF               | Approximate Counter   | [Source](https://github.com/meelgroup/approxmc/)      | Supports projected model counting |
-| `ApproxMC-PB`     | Pseudo-Boolean Formula    | Approximate Counter   | [Source](https://github.com/meelgroup/approxmcpb/)    | Supports projected model counting |
 | `PBCount`         | Pseudo-Boolean Formula   | Exact Counter         | [Source](https://github.com/grab/pbcount)       |           |
-| `CSB`             | SMT (bit vector)               | Approximate Counter   | [Source](https://github.com/meelgroup/csb/)           |          |
+| `ApproxMC-PB`     | Pseudo-Boolean Formula    | Approximate Counter   | [Source](https://github.com/meelgroup/approxmcpb/)    | Supports projected model counting |
 | `pepin`           | DNF               | Approximate Counter   | [Source](https://github.com/meelgroup/pepin/)         |            |
-| `Arjun`           | CNF               | Preprocessor          | [Source](https://github.com/meelgroup/arjun/)         | Minimal independent set calculator and CNF minimizer          |
-| `SkolemFC`        | QBF               | Approximate Counter    | [Source](https://github.com/meelgroup/skolemfc/)      |            |
-| `weighted-to-unweighted` | Weighted CNF | Utility               | [Source](https://github.com/meelgroup/weighted-to-unweighted)      | Converts weighted CNF to unweighted CNF          |
-| `ExactMC` | CNF | Exact Counter       | [Source](https://github.com/meelgroup/KCBox)      | Supports weighted model counting          |
 | `Crane` | First Order Formula (Finite Domain) | Exact Counter       | [Source](https://github.com/dilkas/crane)      | Supports weighted model counting          |
+| `CSB`             | SMT (bit vector)               | Approximate Counter   | [Source](https://github.com/meelgroup/csb/)           |          |
+| `SkolemFC`        | QBF               | Approximate Counter    | [Source](https://github.com/meelgroup/skolemfc/)      |            |
 | `AMUSIC` | CNF | Approximate Counter       | [Source](https://github.com/jar-ben/amusic)      | Counts minimal unsatisfiable subsets of CNF          |
+| `Arjun`           | CNF               | Preprocessor          | [Source](https://github.com/meelgroup/arjun/)         | Minimal independent set calculator and CNF minimizer          |
+| `weighted-to-unweighted` | Weighted CNF | Utility               | [Source](https://github.com/meelgroup/weighted-to-unweighted)      | Converts weighted CNF to unweighted CNF          |
 {:.mbtablestyle}
 <!-- 
 
