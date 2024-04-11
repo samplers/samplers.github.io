@@ -2,10 +2,24 @@ table {
     border-collapse: collapse;
   }
   
-  table, th, td {
-    border: 1px solid black;
-  }
+table, th, td {
+    /* border: 1px solid black; */
+    border-left: none !important;
+    border-right: none !important;
+}
   
-  table colgroup col {
+table colgroup col {
     width: auto !important;
+}
+
+.reduced-row {
+    font-size: 12px;
+    height: 20px;
+}
+
+.special-font {
+    font-family: Georgia, "Times New Roman", serif;;
+    color: black;
+    text-decoration: underline!important; /* Remove default underline */
+    /* box-shadow: 0px -1px 0px 0px black inset; Create a custom 'underline' */
 }
