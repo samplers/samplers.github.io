@@ -26,4 +26,3 @@ The [Meelgroup](https://meelgroup.github.io/) research team has developed and cu
 | [<span class="special-font">SkolemFC</span>](https://github.com/meelgroup/skolemfc/)        | QBF               | Approximate Counter    | [Source](https://github.com/meelgroup/skolemfc/)      |  Counts number of Skolem functions |
 | [<span class="special-font">AMUSIC</span>](https://github.com/jar-ben/amusic) | CNF | Approximate MUS Counter       | [Source](https://github.com/jar-ben/amusic)      | Counts minimal unsatisfiable subsets of CNF          |
 | [<span class="special-font">weighted-to-unweighted</span>](https://github.com/meelgroup/weighted-to-unweighted) | Weighted CNF | Utility               | [Source](https://github.com/meelgroup/weighted-to-unweighted)      | Converts weighted CNF to unweighted CNF          |
-{:.mbtablestyle}
