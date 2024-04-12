@@ -4,7 +4,7 @@ layout: post
 
 ---
 
-The [Meelgroup](https://meelgroup.github.io/) research team has developed and currently maintains model counting tools that handle various input representations as detailed below.
+The [Meelgroup](https://meelgroup.github.io/) research team has developed and currently maintains diverse kind of sampling tools that can sample from various input representations as detailed below.
 
 
 | Name              | Input             | Type                  | Project Webpage                                       | Note      |
