@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Model Counting
+title: Samplers
 email: uddaloksarkar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This page serves as a comprehensive resource for individuals engaged in the field of model counting. It is designed to support those who delve into the complexities and nuances of model counting, offering insights, guidance, and tools tailored to enhance their work. Whether you are a beginner seeking foundational knowledge or an experienced practitioner looking for advanced techniques, this platform aims to facilitate your journey through the intricacies of model counting. Here, you can find a wide range of materials from tutorials and case studies to software tools and community discussions, all intended to foster understanding, innovation, and collaboration within the model counting domain.
