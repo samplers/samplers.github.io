@@ -10,12 +10,19 @@ The [Meelgroup](https://meelgroup.github.io/) research team has developed and cu
 | Name              | Input             | Type                  | Project Webpage                                       | Note      |
 |:---:                |:---:                | :---:                   |:---:                                                    |:---:        |
 |[Arjun](https://github.com/meelgroup/arjun/)           | CNF                    | Preprocessor           | [Source](https://github.com/meelgroup/arjun/)         | Minimal independent set calculator and CNF minimizer|
+||||
 |[ApproxMC](https://github.com/meelgroup/approxmc/)     | CNF                    | Approximate Counter    | [Source](https://github.com/meelgroup/approxmc/)      | Supports projected model counting |
 |[ExactMC](https://github.com/meelgroup/KCBox)          | CNF                    | Exact Counter          | [Source](https://github.com/meelgroup/KCBox)          | Supports weighted model counting|
 |[GANAK](https://github.com/meelgroup/ganak/)           | CNF                    | Exact Counter          | [Source](https://github.com/meelgroup/ganak/)         | Supports projected model counting|
+||||
 |[PBCount](https://github.com/grab/pbcount)             | Pseudo-Boolean Formula | Exact Counter          | [Source](https://github.com/grab/pbcount)             | Supports weighted model counting|
 |[ApproxMC-PB](https://github.com/meelgroup/approxmcpb/)| Pseudo-Boolean Formula | Approximate Counter    | [Source](https://github.com/meelgroup/approxmcpb/)    | Supports projected model counting|
+||||
+|[sharpASP](https://github.com/meelgroup/sharpASP)      | Answer set program     | Exact Counter          | [Source](https://github.com/meelgroup/sharpASP)       | Exact count of the number of answer sets|
+|[ApproxASP](https://github.com/meelgroup/ApproxASP2)  | Answer set program      | Approximate counter    | [Source](https://github.com/meelgroup/ApproxASP2)     | approximately counts the number of answer sets
+||||
 |[pepin](https://github.com/meelgroup/pepin/)           | DNF                    | Approximate Counter    | [Source](https://github.com/meelgroup/pepin/)         | Supports weighted model counting|
+||||
 |[Crane](https://github.com/dilkas/crane)               | First Order Formula    | Exact Counter          | [Source](https://github.com/dilkas/crane)             | Supports weighted model counting|
 |[CSB](https://github.com/meelgroup/csb/)               | SMT (bit vector)       | Approximate Counter    | [Source](https://github.com/meelgroup/csb/)           ||
 |[SkolemFC](https://github.com/meelgroup/skolemfc/)     | QBF                    | Approximate Counter    | [Source](https://github.com/meelgroup/skolemfc/)      |Counts number of Skolem functions|
