@@ -14,4 +14,4 @@ The [Meelgroup](https://meelgroup.github.io/) research team has developed and cu
 |[WAPS](https://github.com/meelgroup/waps)          | CNF                    | Exact Uniform sampler          | [Source](https://github.com/meelgroup/waps)          | Supports weighted and Projected Sampling |
 |[WeightGen](https://bitbucket.org/kuldeepmeel/weightgen)           | CNF                    | Almost-uniform sampler           | [Source](https://bitbucket.org/kuldeepmeel/weightgen)         | Supports weighted Sampling|
 |[INC](https://github.com/grab/inc-weighted-sampler)             | CNF | Incremental uniform sampler          | [Source](https://github.com/grab/inc-weighted-sampler)             | Supports weighted Sampling|
-|[CSB](https://github.com/meelgroup/csb/)               | SMT (bit vector)       | Approximate Counter    | [Source](https://github.com/meelgroup/csb/)           |Uniform-like and almost uniform sampling|
+|[CSB](https://github.com/meelgroup/csb/)               | SMT (bit vector)       | Approximate sampler    | [Source](https://github.com/meelgroup/csb/)           |Uniform-like and almost uniform sampling|
